@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name1">Room Recycler</string>
+    <string-array name="RoomTypes">
+        <item>StandardRoom View1</item>
+        <item>StandardRoom View2</item>
+        <item>StandardRoom View3</item>
+        <item>StandardRoom View4</item>
+        <item>StandardRoom View5</item>
+    </string-array>
+    <string-array name="description">
+        <item>This room is about 436 square feet. There is a coffee maker, 32-inch flat screen TV, it has partial views of the ocean and premium bedding.</item>
+        <item>This room is about 436 square feet. There is a coffee maker, 32-inch flat screen TV, it has partial views of the ocean and premium bedding.</item>
+        <item>This room is about 436 square feet. There is a coffee maker, 32-inch flat screen TV, it has partial views of the ocean and premium bedding.</item>
+        <item>This room is about 436 square feet. There is a coffee maker, 32-inch flat screen TV, it has partial views of the ocean and premium bedding.</item>
+        <item>This room is about 436 square feet. There is a coffee maker, 32-inch flat screen TV, it has partial views of the ocean and premium bedding.</item>
+    </string-array>
+</resources>

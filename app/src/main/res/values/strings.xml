@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HotelRoomViewer</string>
+    <string name="choose">Please choose a Room...</string>
+    <string name="roomtypes">RoomTypes</string>
+    <string name="description">Description</string>
+    <string name="standard">Standard</string>
+    <string name="premium">Premium</string>
+    <string name="presidential">Presidential</string>
+    <string name="select">Select</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="add_customer">Add Customer</string>
+</resources>
